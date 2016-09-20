@@ -1,0 +1,39 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>九宫格</title>
+
+<style type="text/css">
+.box{
+	border:2px red solid;
+    width:100px;
+    height:100px;
+    margin:1px;
+	float:left;
+    background:yellow;
+}
+#main{clear:both;}
+#foot{clear:both;}
+</style>
+</head>
+
+
+<body>
+<div id="head">
+	<div class="box"></div>
+	<div class="box"></div>
+	<div class="box"></div>
+</div>
+<div id="main">
+	<div class="box"></div>
+	<div class="box"></div>
+	<div class="box"></div>
+</div>
+<div id="foot">
+	<div class="box"></div>
+	<div class="box"></div>
+	<div class="box"></div>
+</div>
+</body>
+</html>
