@@ -6,11 +6,11 @@
 
 <style type="text/css">
 .box{
-	border:2px red solid;
+    border:2px red solid;
     width:100px;
     height:100px;
     margin:1px;
-	float:left;
+    float:left;
     background:yellow;
 }
 #main{clear:both;}
